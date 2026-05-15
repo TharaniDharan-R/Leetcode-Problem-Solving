@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |

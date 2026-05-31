@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3798-largest-even-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |

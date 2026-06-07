@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Union-Find
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |

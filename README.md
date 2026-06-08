@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
 ## Two Pointers

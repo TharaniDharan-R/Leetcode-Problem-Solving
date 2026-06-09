@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3945-digit-frequency-score](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
@@ -152,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

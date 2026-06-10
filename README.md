@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

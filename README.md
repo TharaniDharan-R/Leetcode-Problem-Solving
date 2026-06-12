@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2367-number-of-arithmetic-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -173,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2367-number-of-arithmetic-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

@@ -34,46 +34,40 @@
 class Solution {
     public int maxProduct(int[] nums) {
 
-//         int maxProd = nums[0];
-//         int minProd = nums[0];
-//         int result = nums[0];
-
-//         for(int i = 1; i < nums.length; i++){
-
-//             if(nums[i] < 0){
-//                 int temp = maxProd;
-//                 maxProd = minProd;
-//                 minProd = temp;
-//             }
-
-//             maxProd = Math.max(nums[i], maxProd * nums[i]);
-//             minProd = Math.min(nums[i], minProd * nums[i]);
-
-//             result = Math.max(result, maxProd);
-//         }
-
-//         return result;
-//     }
-// }
-
-      	int n = nums.length;
-      
-        // Initializing result
         int maxProd = nums[0];
+        int minProd = nums[0];
+        int result = nums[0];
 
-        for (int i = 0; i < n; i++) {
-            int mul = 1;
-          
-            // traversing in current subarray
-            for (int j = i; j < n; j++) {
-                mul *= nums[j];
-              
-                // updating result every time
-                // to keep track of the maximum product
-                maxProd = Math.max(maxProd, mul);
+        for(int i = 1; i < nums.length; i++){
+
+            if(nums[i] < 0){
+                int temp = maxProd;
+                maxProd = minProd;
+                minProd = temp;
             }
-        }
-        return maxProd;
-    }
 
+            maxProd = Math.max(nums[i], maxProd * nums[i]);
+            minProd = Math.min(nums[i], minProd * nums[i]);
+
+            result = Math.max(result, maxProd);
+        }
+
+        return result;
+    }
 }
+// class Solution {
+//     public int maxProduct(int[] nums) {
+//       	int n = nums.length;
+//         int maxProd = nums[0];
+
+//         for (int i = 0; i < n; i++) {
+//             int mul = 1;
+//             for (int j = i; j < n; j++) {
+//                 mul *= nums[j];
+//                 maxProd = Math.max(maxProd, mul);
+//             }
+//         }
+//         return maxProd;
+//     }
+
+// }

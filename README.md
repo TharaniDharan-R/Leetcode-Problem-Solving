@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

@@ -11,8 +11,10 @@ class Solution {
             st++;
         }
         hs.add(c);
-        int size =e-st+1;
-        max=Math.max(max,size);
+        // int size =e-st+1;
+        // max=Math.max(max,size);
+        if(max<hs.size())
+        max=hs.size();
         e++;
       }
       return max;

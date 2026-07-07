@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming

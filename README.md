@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |

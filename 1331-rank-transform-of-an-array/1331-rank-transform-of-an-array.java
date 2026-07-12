@@ -1,6 +1,6 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int ans [] = new int[arr.length];
+       // int ans [] = new int[arr.length];
         int ans1 [] = new int[arr.length];
         for(int i=0;i<arr.length;i++){
             ans1[i]= arr[i];
@@ -21,9 +21,9 @@ class Solution {
         }
         for(int j=0;j<arr.length;j++){
             if(hm.containsKey(arr[j])){
-                ans[j]=hm.get(arr[j]);
+                ans1[j]=hm.get(arr[j]);
             }
         }
-        return ans;
+        return ans1;
     }
 }

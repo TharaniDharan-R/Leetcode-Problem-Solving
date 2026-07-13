@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0482-license-key-formatting](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |

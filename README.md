@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |

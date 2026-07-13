@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3285-find-indices-of-stable-mountains) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3895-count-digit-appearances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3895-count-digit-appearances) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |

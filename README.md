@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2367-number-of-arithmetic-triplets) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |

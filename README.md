@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |

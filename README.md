@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
+| [3941-password-strength](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3798-largest-even-number) |
 | [3921-score-validator](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |

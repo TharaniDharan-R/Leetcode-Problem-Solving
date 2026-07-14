@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3798-largest-even-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3798-largest-even-number) |
+| [3931-check-adjacent-digit-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
 | ------- |

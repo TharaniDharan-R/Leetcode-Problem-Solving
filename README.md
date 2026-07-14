@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |

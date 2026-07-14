@@ -14,7 +14,7 @@ class pair{
             if(st.isEmpty()){
                 st.push(new pair(c,1));
             }
-            else if(!st.isEmpty() && st.peek().ch==c){
+            else if(st.peek().ch==c){
                 st.peek().count++;
              if(st.peek().count==k){
                 st.pop();

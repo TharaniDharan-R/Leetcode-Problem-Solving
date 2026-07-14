@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2716-minimize-string-length](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2716-minimize-string-length](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3798-largest-even-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3798-largest-even-number) |

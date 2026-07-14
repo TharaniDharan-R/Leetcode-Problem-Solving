@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 |  |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

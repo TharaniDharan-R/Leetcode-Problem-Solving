@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3798-largest-even-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3798-largest-even-number) |
+| [3921-score-validator](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3895-count-digit-appearances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3921-score-validator](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Union-Find
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
+| [3921-score-validator](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |

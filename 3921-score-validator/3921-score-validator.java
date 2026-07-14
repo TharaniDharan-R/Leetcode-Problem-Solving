@@ -5,8 +5,7 @@ class Solution {
         int c=0;
         int a[]=new int[2];
         for(int i=0;i<events.length;i++){
-            if(c>9)
-            break;
+            
             if(!events[i].equals("W") && !events[i].equals("WD") && !events[i].equals("NB")){
                 s+=Integer.parseInt(events[i]);
             }
@@ -15,6 +14,8 @@ class Solution {
             }
             if(events[i].equals("W"))
             c++;
+            if(c>9)
+            break;
         }
         
         a[0]=s;

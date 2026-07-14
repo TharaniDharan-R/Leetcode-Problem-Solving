@@ -6,11 +6,11 @@ class Solution {
             hs.add(c);
         }
         for(char c: hs){
-            if(c-'a'>=0 && c-'a'<=25)
+            if(c>='a' && c<='z')
             s+=1;
-            if(c-'A'>=0 && c-'A'<=25)
+            if(c>='A' && c<='Z')
             s+=2;
-            if(c-'0'>=0 && c-'0'<=9)
+            if(c>='0' && c<='9')
             s+=3;
             if(c=='!' || c=='@'|| c=='#'|| c=='$')
             s+=5;

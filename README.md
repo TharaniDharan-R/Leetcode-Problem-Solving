@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |

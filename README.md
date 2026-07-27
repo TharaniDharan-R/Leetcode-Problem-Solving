@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
+| [0705-design-hashset](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0705-design-hashset) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0905-sort-array-by-parity) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -337,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->

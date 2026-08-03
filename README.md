@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3689-maximum-total-subarray-value-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3921-score-validator) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3945-digit-frequency-score) |

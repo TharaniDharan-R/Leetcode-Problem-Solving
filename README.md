@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |

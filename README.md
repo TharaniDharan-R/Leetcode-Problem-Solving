@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Brainteaser
@@ -391,8 +397,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0164-maximum-gap) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

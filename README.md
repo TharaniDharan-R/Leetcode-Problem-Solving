@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |

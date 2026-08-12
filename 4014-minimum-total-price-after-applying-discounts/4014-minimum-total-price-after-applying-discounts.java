@@ -8,7 +8,7 @@ class Solution {
        // if(discounts.length<prices.length){
         for(int i=discounts.length-1;i>=0;i--){
             for(int j=prices.length-k;j>=0;j--){
-                System.out.println(prices[j]+" "+discounts[i]);
+              //  System.out.println(prices[j]+" "+discounts[i]);
                 d+=(double)prices[j]*(100-discounts[i])/100;
                 k++;
                 c++;
@@ -16,7 +16,7 @@ class Solution {
             }
         }
         for(int i=prices.length-c-1;i>=0;i--){
-            System.out.print(prices[i]);
+           // System.out.print(prices[i]);
             d+=prices[i];
             
         }

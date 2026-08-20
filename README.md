@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3285-find-indices-of-stable-mountains) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3364-minimum-positive-sum-subarray) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2460-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3921-score-validator](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List

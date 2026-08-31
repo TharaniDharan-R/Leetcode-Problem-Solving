@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1598-crawler-log-folder) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |

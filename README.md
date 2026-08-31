@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0482-license-key-formatting](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0482-license-key-formatting) |
+| [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
+| [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |

@@ -438,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->

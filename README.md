@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1598-crawler-log-folder) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting

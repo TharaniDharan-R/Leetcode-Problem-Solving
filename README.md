@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0482-license-key-formatting](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0647-palindromic-substrings) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
 | ------- |

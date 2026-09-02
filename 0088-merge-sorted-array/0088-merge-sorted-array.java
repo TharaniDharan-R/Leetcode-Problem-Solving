@@ -1,19 +1,22 @@
 class Solution {
-    public void merge(int[] n1, int m, int[] n2, int n)
-    {
-        int c=0;
-        int a[]=new int[m+n];
-        for(int i=0;i<m;i++){
-        a[i]=n1[i];
-        c++;
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int len=0;
+        if(nums1.length>nums2.length){
+            len=nums1.length;
         }
-        for(int i=0;i<n;i++){
-            a[c]=n2[i];
-            c++;
+        else
+        len= nums1.length;
+        if(len== nums1.length){
+            for(int i=0;i<nums2.length;i++){
+                for(int j=0;j<len;j++){
+                    if(nums1[j]==0){
+                        nums1[j]=nums2[i];
+                        break;
+                    }
+                }
+            }
         }
-        Arrays.sort(a);
-        for(int i=0;i<n+m;i++){
-            n1[i]=a[i];
-        }
+        Arrays.sort(nums1);
+        
     }
 }

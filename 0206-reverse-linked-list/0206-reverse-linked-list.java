@@ -9,18 +9,16 @@
  * }
  */
 class Solution {
-    public static ListNode InsertBig(ListNode head,ListNode n){
-        n.next= head;
-        return n;
-    }
     public ListNode reverseList(ListNode head) {
-        ListNode n=null;
-        ListNode temp = head;
-        while(temp!=null){
-            ListNode nn=new  ListNode(temp.val);
-            n=InsertBig(n,nn);
-            temp = temp.next;
+        ListNode prev= null;
+        ListNode curr= head;
+        while(curr !=null){
+            ListNode next=curr.next;
+            curr.next=prev;
+            prev= curr;
+            curr= next;
+            
         }
-        return n;
+        return prev;
     }
 }

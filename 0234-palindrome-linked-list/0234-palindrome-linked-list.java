@@ -34,7 +34,7 @@ class Solution {
         ListNode mid= mid(head);
         ListNode midrev=rev(mid);
 
-        while(s!=null && midrev!=null){
+        while(midrev!=null){
             if(s.val != midrev.val){
                 return false;
             }

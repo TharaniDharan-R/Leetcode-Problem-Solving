@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -491,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

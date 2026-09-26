@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1070-product-sales-analysis-iii) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1587-bank-account-summary-ii) |
+| [1693-daily-leads-and-partners](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1693-daily-leads-and-partners) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

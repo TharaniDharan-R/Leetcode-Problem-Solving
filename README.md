@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1070-product-sales-analysis-iii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1070-product-sales-analysis-iii) |
+| [1148-article-views-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1587-bank-account-summary-ii) |

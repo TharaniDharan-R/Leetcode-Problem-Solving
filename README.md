@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0482-license-key-formatting) |
 | [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0942-di-string-match) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1025-divisor-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |

@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Floyd's Cycle Finding Algorithm
 |  |

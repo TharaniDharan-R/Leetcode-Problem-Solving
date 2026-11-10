@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |

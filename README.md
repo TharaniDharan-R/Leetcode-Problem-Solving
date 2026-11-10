@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0705-design-hashset) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0537-complex-number-multiplication](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1572-matrix-diagonal-sum) |

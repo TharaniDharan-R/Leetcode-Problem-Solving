@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |

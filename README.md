@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |

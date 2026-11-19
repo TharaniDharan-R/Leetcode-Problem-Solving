@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2716-minimize-string-length) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TharaniDharan-R/Leetcode-Problem-Solving/tree/master/3146-permutation-difference-between-two-strings) |
